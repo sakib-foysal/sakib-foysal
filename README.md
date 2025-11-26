@@ -22,3 +22,12 @@
     <img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif?raw=true" alt="Animated image showcasing technologies and tools I work with" width="600px">
   </picture>
 </div>
+
+
+
+<!-- Packman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SYAAGalib/SYAAGalib/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SYAAGalib/SYAAGalib/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SYAAGalib/SYAAGalib/output/pacman-contribution-graph.svg">
+</picture>
