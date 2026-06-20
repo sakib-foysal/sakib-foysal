@@ -28,7 +28,7 @@
 <p align="center">
 
 <a href="https://www.facebook.com/ushan.sakib/">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<img src="https://cdn.simpleicons.org/facebook" width="48" height="48" alt="Facebook" />
 </a>
 
 <a href="https://www.linkedin.com/in/sakib-foysal/">
