@@ -15,15 +15,20 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- 🚀 Full Stack Web Developer
-- 🤖 Learning AI Engineering
-- 🌱 Exploring Laravel + React + FastAPI
-- 💻 Building Modern SaaS Products
-- 🎯 Goal: Become a World-Class Software Engineer
+* 🚀 Full Stack Web Developer | AI & Machine Learning Enthusiast
+* 🤖 Passionate about AI Engineering and Intelligent Systems
+* 🌱 Currently exploring Laravel, React, FastAPI, and Django
+* 💻 Building scalable web applications and modern SaaS products
+* 🔭 Working on innovative personal and open-source projects
+* 🎯 Aspiring to become a world-class Software Engineer and AI Engineer
+* 📚 Continuously learning modern web technologies and AI frameworks
+* 💬 Ask me about JavaScript, React, Node.js, PHP, Laravel, Django, and Python
+* ⚡ Fun Fact: Turning coffee into code, one commit at a time ☕
 
+<br clear="both"/>
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -47,27 +52,6 @@
 
 ---
 
-- 🔭 Currently working on exciting personal projects
-- 🌱 Leveling up in AI Engineering & modern web frameworks
-- 💬 Ask me about JavaScript, React, Node.js, PHP/Laravel
-- ⚡ Fun fact: coffee → code → repeat
-
-<br clear="both"/>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
