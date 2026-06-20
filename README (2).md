@@ -112,12 +112,11 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/sakib-foysal/sakib-foysal/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> 💡 এই snake animation কাজ করানোর জন্য একটা GitHub Action সেটআপ লাগবে — চাইলে আমি সেই workflow ফাইলও বানিয়ে দিতে পারি।
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 ---
 
 <div align="center">
