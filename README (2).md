@@ -19,7 +19,7 @@
 - 🤖 Learning AI Engineering
 - 🌱 Exploring Laravel + React + FastAPI
 - 💻 Building Modern SaaS Products
-- 🎯 Goal: Become a World Class Software Engineer
+- 🎯 Goal: Become a World-Class Software Engineer
 
 ---
 
@@ -27,19 +27,19 @@
 
 <p align="center">
 
-<a href="https://facebook.com/">
+<a href="https://www.facebook.com/ushan.sakib/">
 <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/sakib-foysal/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/sayed-tauhidul-islam">
+<a href="https://github.com/sakib-foysal">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:itouhidul322@gmail.com">
+<a href="mailto:sakibfoysal2@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
