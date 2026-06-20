@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;AI+Enthusiast;React+%2B+Node.js+Developer;Laravel+%2B+PHP+Developer;Building+Modern+Web+Apps;Future+SaaS+Founder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Always+Learning+Something+New;Turning+Ideas+Into+Code;Welcome+to+My+GitHub!" />
 </p>
 
 
