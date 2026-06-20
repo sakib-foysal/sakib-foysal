@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Always+Learning+Something+New;Turning+Ideas+Into+Code;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sakib-foysal&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sakib-foysal?label=Followers&style=for-the-badge&color=6366f1" />
 
 </div>
 
