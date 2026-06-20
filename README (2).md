@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Sakib%20Foysal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20for%20the%20web&descAlignY=55&descSize=20" width="100%"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sakib%20Foysal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
+</p>
 
 <a href="https://github.com/sakib-foysal">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Always+Learning+Something+New;Turning+Ideas+Into+Code;Welcome+to+My+GitHub!" alt="Typing SVG" />
