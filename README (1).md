@@ -79,3 +79,8 @@
 </p>
 
 
+<a href="https://github.com/sakib-foysal">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Always+Learning+Something+New;Turning+Ideas+Into+Code;Welcome+to+My+GitHub!" alt="Typing SVG" />
+</a>
+
+
