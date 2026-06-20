@@ -4,11 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sakib%20Foysal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 </p>
 
-<p align="center">
+
 <a href="https://github.com/sakib-foysal">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Always+Learning+Something+New;Turning+Ideas+Into+Code;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </a>
-</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Always+Learning+Something+New;Turning+Ideas+Into+Code;Welcome+to+My+GitHub!" />
