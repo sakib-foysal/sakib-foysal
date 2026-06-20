@@ -66,3 +66,19 @@
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sakib%20Foysal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;AI+Enthusiast;React+%2B+Node.js+Developer;Laravel+%2B+PHP+Developer;Building+Modern+Web+Apps;Future+SaaS+Founder" />
+</p>
+
+<p align="center">
+<a href="https://github.com/sakib-foysal"><img src="https://img.shields.io/github/followers/sakib-foysal?style=for-the-badge&logo=github&color=00F7FF&labelColor=0f2027" /></a>
+<img src="https://komarev.com/ghpvc/?username=sakib-foysal&style=for-the-badge&color=00F7FF&labelColor=0f2027&label=PROFILE+VIEWS" />
+</p>
