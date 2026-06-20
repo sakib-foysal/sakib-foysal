@@ -19,14 +19,37 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-```yaml
-name: Sakib Foysal
-role: Full Stack Web Developer
-location: Bangladesh
-currently_learning: AI Engineering
-focus: Building modern, scalable products
-fun_fact: I debug with println() and I'm not ashamed
-```
+- 🚀 Full Stack Web Developer
+- 🤖 Learning AI Engineering
+- 🌱 Exploring Laravel + React + FastAPI
+- 💻 Building Modern SaaS Products
+- 🎯 Goal: Become a World Class Software Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://facebook.com/">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/sayed-tauhidul-islam">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:itouhidul322@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
 
 - 🔭 Currently working on exciting personal projects
 - 🌱 Leveling up in AI Engineering & modern web frameworks
